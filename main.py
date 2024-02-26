@@ -10,4 +10,4 @@ for i in range(2):
     print('C')
 for i in range(10):
     print('D')
-print('E')
+print('B')
