@@ -1,6 +1,6 @@
 print("A")
 print("B")
-for i in range(6000):
+for i in range(100):
     print("C")
     print("D")
 print("E")
