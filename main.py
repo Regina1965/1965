@@ -9,5 +9,5 @@ print('B')
 for i in range(200):
     print('C')
 for i in range(100):
-    print('D')
+    print('name D')
 print('B, C')
