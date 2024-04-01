@@ -6,7 +6,7 @@ for i in range(10):
 print("E")
 print('A')
 print('B')
-for i in range(200):
+for i in range(100):
     print('C')
 for i in range(100):
     print('name D')
