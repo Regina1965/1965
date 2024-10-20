@@ -8,6 +8,6 @@ print('A')
 print('B')
 for i in range(4000):
     print('C')
-for i in range(100):
+for i in range(100000):
     print('name D')
 print('B, C')
